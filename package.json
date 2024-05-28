@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-markdown": "^9.0.1",
+    "react-use": "^17.5.0"
+  }
+}
